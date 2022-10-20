@@ -195,6 +195,7 @@ nav {
     color: #071C35;
     border-color: #071C35;
     border-width: 2px;
+    padding: 8px;
 }
 
 .butt-acc {
