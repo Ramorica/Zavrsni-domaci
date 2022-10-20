@@ -15,7 +15,7 @@
             margin: 0;
             font-family:'Poppins';
             font-stretch: narrower;
-            padding: 5px;
+            padding: 0;
         }
 ul {
     list-style-type: none;
@@ -44,6 +44,7 @@ nav {
     margin-top: 40px;
     margin-right: 5%;
     display: inline-block;
+    padding: 10px;
 }
 .nav-link {
     text-decoration: none;
@@ -84,6 +85,7 @@ nav {
     margin-bottom: 50px;
     margin-right: 50%;
     margin-left: 5%;
+    padding: 10px;
 }
 .btnBrowse {
     background-color: #071C35;
@@ -97,6 +99,7 @@ nav {
     border: none;
     width: 25%; 
     display: inline-block;
+    padding: 15px;
 }
 .btnLearn {
     color:#071C35;
@@ -110,6 +113,7 @@ nav {
     border:solid #071C35 2px;
     width: 25%; 
     display: inline-block;
+    padding: 15px;
 }
 
 .container {
@@ -118,6 +122,7 @@ nav {
     margin-right: 5px;
     margin-bottom: 15px;
     display: flex;
+    padding: 15px;
 }
 .image-1 {
     margin-top: 5px;
@@ -137,6 +142,7 @@ nav {
 }
 .desc {
     margin-bottom: 10px;
+    padding: 15px;
 }
 .marketing {
     font-weight: 900;
@@ -151,15 +157,18 @@ nav {
     margin-left: 5%; 
     margin-right: 5%;
     padding: 10px;
+    padding: 15px;
 }
 .underline {
     text-decoration: underline;
     font-weight: bold;
+    padding: 15px;
 }
 .e-mail {
     color:#000000;
     font-weight: bold;
     text-decoration: none;
+    padding: 15px;
 }
 .acc {
     margin-left: 20%;
@@ -174,6 +183,7 @@ nav {
     margin-left: 10%;
     margin-right: 10%;
     align-content: center;
+    padding: 15px;
 }
 #fname, #lname, #cname, #email {
     width: 80%;
@@ -205,6 +215,7 @@ nav {
     background-color: #071C35;
     color: #faebd7;
     margin-bottom:10%;
+    padding: 15px;
     padding-top: 20 px;
     padding-bottom: 20 px;
 }
